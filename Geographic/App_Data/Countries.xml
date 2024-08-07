@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+	<country code='ca' handle='canada' continent='north america' iso='124' name="Canada">
+		<administrative-divisions>
+			<administrative-division name="Alberta" french-name="Alberta" abbreviation="AB" capital="Edmonton" founded="1905" time-zone-1="MST (UTC-07)"/>
+			<administrative-division name="British Columbia" french-name="Colombie-Britannique" abbreviation="BC" capital="Victoria" founded="1871" time-zone-1="PST (UTC-08)" time-zone-2="MST (UTC-07)"/>
+			<administrative-division name="Manitoba" french-name="Manitoba" abbreviation="MB" capital="Winnipeg" founded="1870" time-zone-1="CST (UTC-06)"/>
+			<administrative-division name="New Brunswick" french-name="Nouveau-Brunswick" abbreviation="NB" capital="Fredericton" founded="1867" time-zone-1="AST (UTC-04)"/>
+			<administrative-division name="Newfoundland and Labrador" french-name="Terre-Neuve-et-Labrador" abbreviation="NL" capital="St. John's" founded="1949" time-zone-1="AST (UTC-04)" time-zone-2="NST (UTC-03:30)"/>
+			<administrative-division name="Northwest Territories" french-name="Territoires du Nord-Ouest" abbreviation="NT" capital="Yellowknife" founded="1870" time-zone-1="PST (UTC-8)" time-zone-2="MST (UTC-07)"/>
+			<administrative-division name="Nova Scotia" french-name="Nouvelle-Écosse" abbreviation="NS" capital="Halifax" founded="1867" time-zone-1="AST (UTC-04)"/>
+			<administrative-division name="Nunavut" french-name="Nunavut" abbreviation="NU" capital="Iqaluit" founded="1999" time-zone-1="MST (UTC-07)" time-zone-2="CST (UTC-06)" time-zone-3="EST (UTC-05)"/>
+			<administrative-division name="Ontario" french-name="Ontario" abbreviation="ON" capital="Toronto" founded="1867" time-zone-1="CST (UTC-06)" time-zone-2="EST (UTC-05)"/>
+			<administrative-divisios name="Prince Edward Island" french-name="Île-du-Prince-Édouard" abbreviation="PE" capital="Charlottetown" founded="1873" time-zone-1="AST (UTC-04)"/>
+			<administrative-division name="Quebec" french-name="Québec" abbreviation="QC" capital="Quebec City" founded="1867" time-zone-1="EST (UTC-05)" time-zone-2="AST (UTC-04)"/>
+			<administrative-division name="Saskatchewan" french-name="Saskatchewan" abbreviation="SK" capital="Regina" founded="1905" time-zone-1="MST (UTC-07)" time-zone-2="CST (UTC-06)"/>
+			<administrative-division name="Yukon" french-name="Yukon" abbreviation="YT" capital="Whitehorse" founded="1898" time-zone-1="PST (UTC-08)"/>
+		</administrative-divisions>
+	</country>
+	<country code='us' handle='united-states' continent='north america' alt='US America USA' boost='2' iso='840' name="United States">
+		<administrative-divisions>
+			<administrative-division abbreviation="AL" name="Alabama" />
+			<administrative-division abbreviation="AK" name="Alaska" />
+			<administrative-division abbreviation="AZ" name="Arizona" />
+			<administrative-division abbreviation="AR" name="Arkansas" />
+			<administrative-division abbreviation="CA" name="California" />
+			<administrative-division abbreviation="CO" name="Colorado" />
+			<administrative-division abbreviation="CT" name="Connecticut" />
+			<administrative-division abbreviation="DE" name="Delaware" />
+			<administrative-division abbreviation="DC" name="District Of Columbia" />
+			<administrative-division abbreviation="FL" name="Florida" />
+			<administrative-division abbreviation="GA" name="Georgia" />
+			<administrative-division abbreviation="HI" name="Hawaii" />
+			<administrative-division abbreviation="ID" name="Idaho" />
+			<administrative-division abbreviation="IL" name="Illinois" />
+			<administrative-division abbreviation="IN" name="Indiana" />
+			<administrative-division abbreviation="IA" name="Iowa" />
+			<administrative-division abbreviation="KS" name="Kansas" />
+			<administrative-division abbreviation="KY" name="Kentucky" />
+			<administrative-division abbreviation="LA" name="Louisiana" />
+			<administrative-division abbreviation="ME" name="Maine" />
+			<administrative-division abbreviation="MD" name="Maryland" />
+			<administrative-division abbreviation="MA" name="Massachusetts" />
+			<administrative-division abbreviation="MI" name="Michigan" />
+			<administrative-division abbreviation="MN" name="Minnesota" />
+			<administrative-division abbreviation="MS" name="Mississippi" />
+			<administrative-division abbreviation="MO" name="Missouri" />
+			<administrative-division abbreviation="MT" name="Montana" />
+			<administrative-division abbreviation="NE" name="Nebraska" />
+			<administrative-division abbreviation="NV" name="Nevada" />
+			<administrative-division abbreviation="NH" name="New Hampshire" />
+			<administrative-division abbreviation="NJ" name="New Jersey" />
+			<administrative-division abbreviation="NM" name="New Mexico" />
+			<administrative-division abbreviation="NY" name="New York" />
+			<administrative-division abbreviation="NC" name="North Carolina" />
+			<administrative-division abbreviation="ND" name="North Dakota" />
+			<administrative-division abbreviation="OH" name="Ohio" />
+			<administrative-division abbreviation="OK" name="Oklahoma" />
+			<administrative-division abbreviation="OR" name="Oregon" />
+			<administrative-division abbreviation="PA" name="Pennsylvania" />
+			<administrative-division abbreviation="PR" name="Puerto Rico" />
+			<administrative-division abbreviation="RI" name="Rhode Island" />
+			<administrative-division abbreviation="SC" name="South Carolina" />
+			<administrative-division abbreviation="SD" name="South Dakota" />
+			<administrative-division abbreviation="TN" name="Tennessee" />
+			<administrative-division abbreviation="TX" name="Texas" />
+			<administrative-division abbreviation="UT" name="Utah" />
+			<administrative-division abbreviation="VT" name="Vermont" />
+			<administrative-division abbreviation="VI" name="Virgin Islands" />
+			<administrative-division abbreviation="VA" name="Virginia" />
+			<administrative-division abbreviation="WA" name="Washington" />
+			<administrative-division abbreviation="WV" name="West Virginia" />
+			<administrative-division abbreviation="WI" name="Wisconsin" />
+			<administrative-division abbreviation="WY" name="Wyoming" />
+		</administrative-divisions>
+	</country>
+
+</countries>
